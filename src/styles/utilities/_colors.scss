@@ -1,0 +1,13 @@
+@use "../base/tokens" as *;
+
+@each $color-prefix, $color-swatches in $colors {
+    @each $color-swatch, $color-value in $color-swatches {
+        .bg-#{$color-prefix}-#{$color-swatch} {
+            background-color: $color-value;
+        }
+        .color-#{$color-prefix}-#{$color-swatch} {
+            color: $color-value;
+        }
+
+    }
+}

@@ -1,0 +1,633 @@
+{
+  "color": {
+    "primary": {
+      "100": {
+        "value": "#FBF5EC",
+        "filePath": "src/styles/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#FBF5EC"
+        },
+        "name": "color-primary-100",
+        "attributes": {},
+        "path": [
+          "color",
+          "primary",
+          "100"
+        ]
+      },
+      "400": {
+        "value": "#FFA441",
+        "filePath": "src/styles/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#FFA441"
+        },
+        "name": "color-primary-400",
+        "attributes": {},
+        "path": [
+          "color",
+          "primary",
+          "400"
+        ]
+      },
+      "500": {
+        "value": "#FF7E1D",
+        "filePath": "src/styles/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#FF7E1D"
+        },
+        "name": "color-primary-500",
+        "attributes": {},
+        "path": [
+          "color",
+          "primary",
+          "500"
+        ]
+      },
+      "600": {
+        "value": "#EE853A",
+        "filePath": "src/styles/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#EE853A"
+        },
+        "name": "color-primary-600",
+        "attributes": {},
+        "path": [
+          "color",
+          "primary",
+          "600"
+        ]
+      },
+      "700": {
+        "value": "#E1894B",
+        "filePath": "src/styles/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#E1894B"
+        },
+        "name": "color-primary-700",
+        "attributes": {},
+        "path": [
+          "color",
+          "primary",
+          "700"
+        ]
+      }
+    },
+    "secondary": {
+      "yellow": {
+        "400": {
+          "value": "#FAE269",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#FAE269"
+          },
+          "name": "color-secondary-yellow-400",
+          "attributes": {},
+          "path": [
+            "color",
+            "secondary",
+            "yellow",
+            "400"
+          ]
+        },
+        "500": {
+          "value": "#FFCE00",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#FFCE00"
+          },
+          "name": "color-secondary-yellow-500",
+          "attributes": {},
+          "path": [
+            "color",
+            "secondary",
+            "yellow",
+            "500"
+          ]
+        },
+        "600": {
+          "value": "#F3CE1D",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#F3CE1D"
+          },
+          "name": "color-secondary-yellow-600",
+          "attributes": {},
+          "path": [
+            "color",
+            "secondary",
+            "yellow",
+            "600"
+          ]
+        },
+        "700": {
+          "value": "#D9B81E",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#D9B81E"
+          },
+          "name": "color-secondary-yellow-700",
+          "attributes": {},
+          "path": [
+            "color",
+            "secondary",
+            "yellow",
+            "700"
+          ]
+        }
+      },
+      "blue": {
+        "400": {
+          "value": "#58A7F8",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#58A7F8"
+          },
+          "name": "color-secondary-blue-400",
+          "attributes": {},
+          "path": [
+            "color",
+            "secondary",
+            "blue",
+            "400"
+          ]
+        },
+        "500": {
+          "value": "#0C6FF9",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#0C6FF9"
+          },
+          "name": "color-secondary-blue-500",
+          "attributes": {},
+          "path": [
+            "color",
+            "secondary",
+            "blue",
+            "500"
+          ]
+        },
+        "600": {
+          "value": "#0850FD",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#0850FD"
+          },
+          "name": "color-secondary-blue-600",
+          "attributes": {},
+          "path": [
+            "color",
+            "secondary",
+            "blue",
+            "600"
+          ]
+        },
+        "700": {
+          "value": "#0748EA",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#0748EA"
+          },
+          "name": "color-secondary-blue-700",
+          "attributes": {},
+          "path": [
+            "color",
+            "secondary",
+            "blue",
+            "700"
+          ]
+        }
+      },
+      "purple": {
+        "400": {
+          "value": "#A273C6",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#A273C6"
+          },
+          "name": "color-secondary-purple-400",
+          "attributes": {},
+          "path": [
+            "color",
+            "secondary",
+            "purple",
+            "400"
+          ]
+        },
+        "500": {
+          "value": "#9B75C1",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#9B75C1"
+          },
+          "name": "color-secondary-purple-500",
+          "attributes": {},
+          "path": [
+            "color",
+            "secondary",
+            "purple",
+            "500"
+          ]
+        },
+        "600": {
+          "value": "#8252A8",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#8252A8"
+          },
+          "name": "color-secondary-purple-600",
+          "attributes": {},
+          "path": [
+            "color",
+            "secondary",
+            "purple",
+            "600"
+          ]
+        },
+        "700": {
+          "value": "#62388A",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#62388A"
+          },
+          "name": "color-secondary-purple-700",
+          "attributes": {},
+          "path": [
+            "color",
+            "secondary",
+            "purple",
+            "700"
+          ]
+        }
+      },
+      "pink": {
+        "400": {
+          "value": "#F2AFD3",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#F2AFD3"
+          },
+          "name": "color-secondary-pink-400",
+          "attributes": {},
+          "path": [
+            "color",
+            "secondary",
+            "pink",
+            "400"
+          ]
+        },
+        "500": {
+          "value": "#EF89C4",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#EF89C4"
+          },
+          "name": "color-secondary-pink-500",
+          "attributes": {},
+          "path": [
+            "color",
+            "secondary",
+            "pink",
+            "500"
+          ]
+        },
+        "600": {
+          "value": "#DB78AC",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#DB78AC"
+          },
+          "name": "color-secondary-pink-600",
+          "attributes": {},
+          "path": [
+            "color",
+            "secondary",
+            "pink",
+            "600"
+          ]
+        }
+      }
+    },
+    "ascent": {
+      "teel": {
+        "200": {
+          "value": "#9CCFCC",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#9CCFCC"
+          },
+          "name": "color-ascent-teel-200",
+          "attributes": {},
+          "path": [
+            "color",
+            "ascent",
+            "teel",
+            "200"
+          ]
+        },
+        "300": {
+          "value": "#72BFBA",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#72BFBA"
+          },
+          "name": "color-ascent-teel-300",
+          "attributes": {},
+          "path": [
+            "color",
+            "ascent",
+            "teel",
+            "300"
+          ]
+        }
+      },
+      "green": {
+        "400": {
+          "value": "#71CB86",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#71CB86"
+          },
+          "name": "color-ascent-green-400",
+          "attributes": {},
+          "path": [
+            "color",
+            "ascent",
+            "green",
+            "400"
+          ]
+        },
+        "500": {
+          "value": "#49A35B",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#49A35B"
+          },
+          "name": "color-ascent-green-500",
+          "attributes": {},
+          "path": [
+            "color",
+            "ascent",
+            "green",
+            "500"
+          ]
+        }
+      },
+      "success": {
+        "value": "#377F56",
+        "filePath": "src/styles/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#377F56"
+        },
+        "name": "color-ascent-success",
+        "attributes": {},
+        "path": [
+          "color",
+          "ascent",
+          "success"
+        ]
+      },
+      "toggle": {
+        "value": "#65C466",
+        "filePath": "src/styles/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#65C466"
+        },
+        "name": "color-ascent-toggle",
+        "attributes": {},
+        "path": [
+          "color",
+          "ascent",
+          "toggle"
+        ]
+      },
+      "red": {
+        "300": {
+          "value": "#F0949A",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#F0949A"
+          },
+          "name": "color-ascent-red-300",
+          "attributes": {},
+          "path": [
+            "color",
+            "ascent",
+            "red",
+            "300"
+          ]
+        },
+        "400": {
+          "value": "#EC8388",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#EC8388"
+          },
+          "name": "color-ascent-red-400",
+          "attributes": {},
+          "path": [
+            "color",
+            "ascent",
+            "red",
+            "400"
+          ]
+        },
+        "500": {
+          "value": "#E1747A",
+          "filePath": "src/styles/tokens/tokens.json",
+          "isSource": true,
+          "original": {
+            "value": "#E1747A"
+          },
+          "name": "color-ascent-red-500",
+          "attributes": {},
+          "path": [
+            "color",
+            "ascent",
+            "red",
+            "500"
+          ]
+        }
+      },
+      "error": {
+        "value": "#49A35B",
+        "filePath": "src/styles/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#49A35B"
+        },
+        "name": "color-ascent-error",
+        "attributes": {},
+        "path": [
+          "color",
+          "ascent",
+          "error"
+        ]
+      }
+    },
+    "text": {
+      "contrast": {
+        "value": "#000",
+        "filePath": "src/styles/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#000"
+        },
+        "name": "color-text-contrast",
+        "attributes": {},
+        "path": [
+          "color",
+          "text",
+          "contrast"
+        ]
+      },
+      "main": {
+        "value": "#393938",
+        "filePath": "src/styles/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#393938"
+        },
+        "name": "color-text-main",
+        "attributes": {},
+        "path": [
+          "color",
+          "text",
+          "main"
+        ]
+      },
+      "text": {
+        "value": "#5B6073",
+        "filePath": "src/styles/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#5B6073"
+        },
+        "name": "color-text-text",
+        "attributes": {},
+        "path": [
+          "color",
+          "text",
+          "text"
+        ]
+      },
+      "misc": {
+        "value": "#9EA3B1",
+        "filePath": "src/styles/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#9EA3B1"
+        },
+        "name": "color-text-misc",
+        "attributes": {},
+        "path": [
+          "color",
+          "text",
+          "misc"
+        ]
+      },
+      "hierarchy-1": {
+        "value": "#666",
+        "filePath": "src/styles/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#666"
+        },
+        "name": "color-text-hierarchy-1",
+        "attributes": {},
+        "path": [
+          "color",
+          "text",
+          "hierarchy-1"
+        ]
+      },
+      "hierarchy-2": {
+        "value": "#777675",
+        "filePath": "src/styles/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#777675"
+        },
+        "name": "color-text-hierarchy-2",
+        "attributes": {},
+        "path": [
+          "color",
+          "text",
+          "hierarchy-2"
+        ]
+      },
+      "disabled": {
+        "value": "#797877",
+        "filePath": "src/styles/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#797877"
+        },
+        "name": "color-text-disabled",
+        "attributes": {},
+        "path": [
+          "color",
+          "text",
+          "disabled"
+        ]
+      },
+      "disabled-contrast": {
+        "value": "#B2B2B2",
+        "filePath": "src/styles/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#B2B2B2"
+        },
+        "name": "color-text-disabled-contrast",
+        "attributes": {},
+        "path": [
+          "color",
+          "text",
+          "disabled-contrast"
+        ]
+      },
+      "white": {
+        "value": "#FFF",
+        "filePath": "src/styles/tokens/tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "#FFF"
+        },
+        "name": "color-text-white",
+        "attributes": {},
+        "path": [
+          "color",
+          "text",
+          "white"
+        ]
+      }
+    }
+  }
+}
